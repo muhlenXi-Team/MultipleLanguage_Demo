@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  SuperBaseXib
+
+  Created by muhlenXi on 2016/12/7.
+  Copyright © 2016年 XiYinjun. All rights reserved.
+*/
+
+"Alarm clock" = "闹钟提醒";
+"Medicine" = "吃药提醒";
+"Setings"  = "设置";
+"Find Band" = "寻找手环";
+
+"test words" = "测试语句";

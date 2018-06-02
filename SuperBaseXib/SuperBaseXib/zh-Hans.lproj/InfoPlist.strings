@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  SuperBaseXib
+
+  Created by muhlenXi on 2016/12/7.
+  Copyright © 2016年 XiYinjun. All rights reserved.
+*/
+
+"CFBundleDisplayName" = "中文名字";
